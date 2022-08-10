@@ -7,8 +7,8 @@ COMPANY_NAME = "Tesla Inc"
 STOCK_KEY = "4JM1MX763JGK93SD"
 STOCK_URL = "https://www.alphavantage.co/query?function=TIME_SERIES_DAILY&symbol=TSLA&apikey=4JM1MX763JGK93SD"
 NEWS_URL = "https://newsapi.org/v2/everything?q=tesla&apiKey=5505c5f68d0f4b8fad97d5fe9e8d308c"
-account_sid = "ACe6c5bbe62f6f764e3a0df735621630df"
-auth_token = "181d0f358293cf6eb26cc251f2aac83e"
+account_sid = #SID
+auth_token = #TOKEN
 
 print(NEWS_URL)
 
